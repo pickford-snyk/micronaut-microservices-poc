@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:stable-trixie
 MAINTAINER ASC-LAB
 
 ENV \
